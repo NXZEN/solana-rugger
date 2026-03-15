@@ -2,7 +2,7 @@
 This Solana Rug Pull Bot is a feature-rich solution tailored for individuals looking to exploit Pump.fun user's trust effortlessly. Whether you're looking to just launch a coin or rug it.
 
 ## Features
-<img src="docs/image.png" width="400" />
+<img src="image.png" width="400" />
 
 ### Create Token on Pump.fun:
 Creates Token on Pump.fun using your settings/links and sell limit.
